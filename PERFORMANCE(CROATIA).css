@@ -1,0 +1,39 @@
+body{
+    background: linear-gradient(180deg, rgb(25, 25, 180), white, rgb(180, 25, 25));
+    color:rgb(0, 0, 0);
+ min-height: 100vh;   
+}
+
+a {
+    color: white;
+    font-size: 29px;
+    text-decoration: none;
+}
+
+.back {
+    margin: 0 10px 0;
+}
+
+.inter {
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+}
+
+.title {
+
+}
+
+.captain {
+    width: 200px;
+    height: 300px;
+}
+
+.team {
+    width: 700px;
+    height: 300px;
+}
+
+.country {
+    width: 270px;
+    height:150px;
+}

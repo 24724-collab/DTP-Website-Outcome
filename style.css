@@ -1,0 +1,55 @@
+body{
+    background: linear-gradient(180deg, rgb(25, 25, 180), white, rgb(180, 25, 25));
+    color:rgb(252, 252, 249)
+}
+.goat{
+    text-align: center;
+    margin: auto;
+    font-size: 4rem;
+}
+.title{
+    margin-bottom: 10px;
+    margin-top: 30px;
+}
+
+.introduction{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 3px;
+    margin-left: 75px;
+}
+.intro_text{
+    font-size: 1.3rem;
+}
+.four_cards{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin-top: 50px;
+}
+.four_cards img{
+    width: 150px;
+    margin: auto;
+}
+.Signature img{
+    width: 350px;
+    margin-top: 10px;
+}
+.sub_pages{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 100px;
+}
+
+.sub_pages img{
+    margin: 70px 40px 40px 40px;
+    height: 370px;
+    width: 250px;
+    transition: 0.25s;
+    border-radius: 15px;
+}
+.card-text{
+    text-align:center;
+}
+.sub_pages img:hover{
+    transform: scale(1.18);
+}
