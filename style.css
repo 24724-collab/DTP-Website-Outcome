@@ -32,7 +32,8 @@ body{
 }
 .Signature img{
     width: 350px;
-    margin-top: 10px;
+    margin-top: 5px;
+    margin-left: 50px;
 }
 .sub_pages{
     display: grid;
