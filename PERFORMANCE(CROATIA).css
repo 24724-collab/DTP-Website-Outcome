@@ -16,7 +16,7 @@ a {
 
 .inter {
     display: grid;
-    grid-template-columns: 1fr 2fr 1fr;
+    grid-template-columns: 1fr 2.5fr 1fr;
 }
 
 .title {
@@ -26,13 +26,13 @@ a {
 
 .captain {
     width: 230px;
-    height: 350px;
+    height: 360px;
 }
 
 .team {
-    margin-left: 300px;
-    width: 700px;
-    height: 300px;
+    margin-left: 200px;
+    width: 850px;
+    height: 400px;
 }
 
 .country {
