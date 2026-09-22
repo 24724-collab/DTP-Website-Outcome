@@ -25,20 +25,18 @@ a {
 }
 
 .captain {
-    width: 200px;
-    height: 300px;
+    width: 230px;
+    height: 350px;
 }
 
 .team {
+    margin-left: 300px;
     width: 700px;
     height: 300px;
 }
 
 .country {
+    margin-top: 40px;
     width: 270px;
     height:150px;
-}
-
-.word{
-
 }
